@@ -1,4 +1,4 @@
-package com.dicoding.myintentapp
+package com.dicoding.rony
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

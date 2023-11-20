@@ -1,4 +1,4 @@
-package com.dicoding.myintentapp
+package com.dicoding.rony
 
 import android.content.Intent
 import android.net.Uri
@@ -8,6 +8,7 @@ import android.view.View
 import android.widget.Button
 import android.widget.TextView
 import androidx.activity.result.contract.ActivityResultContracts
+import com.maza.rony.R
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
     private lateinit var tvResult: TextView

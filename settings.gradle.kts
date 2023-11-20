@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "MyIntentApp"
+rootProject.name = "Explicit Intent"
 include(":app")

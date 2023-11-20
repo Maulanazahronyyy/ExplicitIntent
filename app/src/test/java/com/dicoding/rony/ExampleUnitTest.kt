@@ -1,4 +1,4 @@
-package com.dicoding.myintentapp
+package com.dicoding.rony
 
 import org.junit.Test
 

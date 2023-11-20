@@ -1,4 +1,4 @@
-package com.dicoding.myintentapp
+package com.dicoding.rony
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import android.widget.RadioGroup
+import com.maza.rony.R
 
 class MoveForResultActivity : AppCompatActivity(), View.OnClickListener  {
     private lateinit var btnChoose: Button

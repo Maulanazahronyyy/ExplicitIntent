@@ -5,13 +5,14 @@ plugins {
 
 }
 
+
 android {
-    namespace = "com.dicoding.myintentapp"
+    namespace = "com.maza.rony"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.dicoding.myintentapp"
-        minSdk = 21
+        applicationId = "com.maza.rony"
+        minSdk = 19
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"

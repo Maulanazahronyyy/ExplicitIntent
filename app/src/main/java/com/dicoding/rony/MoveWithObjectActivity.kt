@@ -1,9 +1,10 @@
-package com.dicoding.myintentapp
+package com.dicoding.rony
 
 import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
+import com.maza.rony.R
 
 class MoveWithObjectActivity : AppCompatActivity() {
 
